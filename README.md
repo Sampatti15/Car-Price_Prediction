@@ -84,3 +84,4 @@ The primary objective of this project is to build an efficient machine learning 
 **Sampatti Borse**
 
 GitHub: https://github.com/Sampatti15
+LinkedIn: https://www.linkedin.com/in/sampatti-borse-0441b5318/
