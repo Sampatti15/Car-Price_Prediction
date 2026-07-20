@@ -72,6 +72,13 @@ The primary objective of this project is to build an efficient machine learning 
 
 ---
 
+## Screenshot
+<img width="578" height="455" alt="lin_train_data" src="https://github.com/user-attachments/assets/b033f930-4fc9-4ade-b60b-70ed0d742d84" />
+<br/>
+<img width="578" height="455" alt="lass_test_data" src="https://github.com/user-attachments/assets/8f5c92b9-db8c-437e-b35d-2eb1d643826d" />
+
+
+
 ## 👩‍💻 Author
 
 **Sampatti Borse**
